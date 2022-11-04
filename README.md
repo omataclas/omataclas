@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @omataclas
 - 👀 I’m interested in Computer Science and Software Developing
-- 🌱 I’m currently learning OSSU
+- 🌱 I’m currently learning System Analisys and Development @ FAESA
 - 💞️ I’m looking to collaborate on any projects my knowledge can be useful
 - 📫 How to reach me -> omataclas@gmail.com
 
